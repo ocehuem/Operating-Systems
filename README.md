@@ -1,4 +1,7 @@
+
+
 Worked on a series of C/C++ systems programming projects covering image processing, process management, scheduling, parallelism, and memory management. Built applications such as a PPM image sharpener, a process-based file searcher with inter-process communication, and a scheduler simulator implementing FIFO, SJF, and Round Robin. Designed parallel pipelines using processes, threads, shared memory, pipes, semaphores, and atomic operations, and developed a Virtual Memory Manager with multiple page replacement and allocation policies. Conducted performance analysis, automated builds with Makefiles, and documented results with reports and graphs.
+
 ---
 
 ## 1 . Breaking the inhibitions(lab0)
